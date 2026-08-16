@@ -1,9 +1,9 @@
 repositories:
   - name: restic-backup
-    url: https://techpipe.github.io/restic-pvc-backup-helm-chart/
+    url: https://techpipe-io.github.io/restic-pvc-backup-helm-chart/
 
   - name: redmine
-    url: https://techpipe.github.io/redmine-helm-chart/
+    url: https://techpipe-io.github.io/redmine-helm-chart/
 
   - name: searxng
-    url: https://techpipe.github.io/searxng-helm-chart/
+    url: https://techpipe-io.github.io/searxng-helm-chart/
